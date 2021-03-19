@@ -2,8 +2,8 @@
 layout: post
 title: You're up and running!
 tags:
-  - test
-  - tags
+  - testing
+  - accessibility
 comments: true
 ---
 
