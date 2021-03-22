@@ -75,7 +75,7 @@ defaults:
   - scope:
     path: ""
     values:
-    image: ./assets/images/dev.jpg
+    image: /assets/images/dev.jpg
     hight: 400
     width: 400
 
